@@ -17,4 +17,9 @@
 - [Introduction to Threat Hunting](https://elearning.securityblue.team/home/certificate/134126785)
 - [Introduction to Vulnerability Management](https://elearning.securityblue.team/home/certificate/713732913)
 
-
+**Activity**
+- I actively participate in CTF
+- Bug Bounty at HackerOne and Bugcrowd
+- OSINT investigations
+- Сontinuous training in Hack The Box and TryHackMe
+- Preparation for CPTS certification
